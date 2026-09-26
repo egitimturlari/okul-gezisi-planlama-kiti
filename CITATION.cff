@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Bu kiti kullanırsanız lütfen aşağıdaki şekilde atıf yapın."
+title: "Okul Gezisi Planlama Kiti"
+abstract: "Türkiye'deki öğretmenler ve okul yöneticileri için okul gezisi planlama rehberi, MEB Sosyal Etkinlikler Yönetmeliği özeti, gezi dosyası belge listesi, veli bilgilendirme ve yurt dışı evrak kontrol listeleri ile şablonlar."
+type: dataset
+authors:
+  - name: "Eğitim Turları"
+    website: "https://egitimturlari.com"
+license: CC-BY-4.0
+url: "https://egitimturlari.com"
+keywords:
+  - okul gezisi
+  - eğitim turu
+  - okul gezileri yönetmeliği
+  - veli izin belgesi
+  - gezi planı
+  - MEB sosyal etkinlikler yönetmeliği
+date-released: "2026-09-26"
+version: "1.0.0"
